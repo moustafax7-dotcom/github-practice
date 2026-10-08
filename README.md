@@ -15,3 +15,4 @@ This repository is used to practice GitHub workflows, including branches, commit
 This repository is maintained collaboratively by Moustafa and Hamza.
 
 We practice Git branching, pull requests, code reviews, and teamwork.
+Both contributors work together to improve documentation and practice GitHub collaboration.
